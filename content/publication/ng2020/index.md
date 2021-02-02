@@ -32,7 +32,7 @@ summary: Analysis of WES data from 457 paired primary tumor and metastatic sampl
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
