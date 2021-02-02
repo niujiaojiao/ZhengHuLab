@@ -37,7 +37,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.nature.com/articles/s41467-020-16995-y
+# url_pdf: https://www.nature.com/articles/s41467-020-16995-y
 url_code: ''
 url_dataset: ''
 url_poster: ''
