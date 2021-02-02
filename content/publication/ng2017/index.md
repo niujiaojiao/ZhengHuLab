@@ -28,7 +28,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Nature Genetics, 49*(1015–1024)"
-publication_short: "*Nature Genetics*"
+publication_short: "*Nature Genetics, 49*(1015–1024)"
 
 abstract: Given the implications of tumor dynamics for precision medicine, there is a need to systematically characterize the mode of evolution across diverse solid tumor types. In particular, methods to infer the role of natural selection within established human tumors are lacking. By simulating spatial tumor growth under different evolutionary modes and examining patterns of between-region subclonal genetic divergence from multiregion sequencing (MRS) data, we demonstrate that it is feasible to distinguish tumors driven by strong positive subclonal selection from those evolving neutrally or under weak selection, as the latter fail to dramatically alter subclonal composition. We developed a classifier based on measures of between-region subclonal genetic divergence and projected patient data into model space, finding different modes of evolution both within and between solid tumor types. Our findings have broad implications for how human tumors progress, how they accumulate intratumoral heterogeneity, and ultimately how they may be more effectively treated.
 
