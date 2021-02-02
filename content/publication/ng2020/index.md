@@ -30,9 +30,6 @@ abstract: Metastasis is the primary cause of cancer-related deaths, but the natu
 # Summary. An optional shortened abstract.
 summary: Analysis of WES data from 457 paired primary tumor and metastatic samples in three cancer types reveals early metastatic seeding and the impact of drug treatment on metastatic clonal evolution.
 
-- Highlighed in Cancer Discovery
-- Recommendated by Faculty of 1000
-
 tags:
 - Source Themes
 featured: true
