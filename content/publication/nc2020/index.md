@@ -19,8 +19,8 @@ publishDate: "2020-06-25T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: "Nature Communications"
+publication: "*Nature Communications, 1*(1)"
+publication_short: ""
 
 abstract: The timing of cancer metastasis has implications for treatment and prevention. Traditional forward-time views of metastasis assume it occurs late during evolution. However, looking backward in time reveals metastasis often occurs prior to clinical detection of primary tumors.
 
