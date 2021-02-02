@@ -1,8 +1,8 @@
 ---
 title: "Between-region genetic divergence reflects the mode and tempo of tumor evolution"
 authors:
-- Ruping Sun(*)
-- Zheng Hu(*)
+- Ruping Sun
+- Zheng Hu
 - Andrea Sottoriva
 - Trevor A Graham
 - Arbel Harpak
