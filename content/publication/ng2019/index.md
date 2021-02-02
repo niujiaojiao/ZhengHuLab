@@ -1,5 +1,5 @@
 ---
-title: "Multi-cancer analysis of clonality and the timing of systemic spread in paired primary tumors and metastases"
+title: "Quantitative evidence for early metastatic seeding in colorectal cancer"
 authors:
 - Zheng Hu
 - Jie Ding
@@ -37,6 +37,7 @@ publication: "*Nature Genetics, 51*(1113–1122)"
 publication_short: "*Nature Genetics, 51*(1113–1122)"
 
 abstract: Both the timing and molecular determinants of metastasis are unknown, hindering treatment and prevention efforts. Here we characterize the evolutionary dynamics of this lethal process by analyzing exome-sequencing data from 118 biopsies from 23 patients with colorectal cancer with metastases to the liver or brain. The data show that the genomic divergence between the primary tumor and metastasis is low and that canonical driver genes were acquired early. Analysis within a spatial tumor growth model and statistical inference framework indicates that early disseminated cells commonly (81%, 17 out of 21 evaluable patients) seed metastases while the carcinoma is clinically undetectable (typically, less than 0.01 cm3). We validated the association between early drivers and metastasis in an independent cohort of 2,751 colorectal cancers, demonstrating their utility as biomarkers of metastasis. This conceptual and analytical framework provides quantitative in vivo evidence that systemic spread can occur early in colorectal cancer and illuminates strategies for patient stratification and therapeutic targeting of the canonical drivers of tumorigenesis.
+
 # Summary. An optional shortened abstract.
 summary: Analysis of genomic data within a spatial tumor growth model and statistical inference framework indicates that early disseminated cells commonly seed metastases while the carcinoma is clinically undetectable.
 
