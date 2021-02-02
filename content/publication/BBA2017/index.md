@@ -23,6 +23,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "*BBA Reviews on Cancer, 2*(109–126)"
 publication_short: "*BBA Reviews on Cancer, 2*(109–126)"
+
 abstract: Cancer results from the acquisition of somatic alterations in a microevolutionary process that typically occurs over many years, much of which is occult. Understanding the evolutionary dynamics that are operative at different stages of progression in individual tumors might inform the earlier detection, diagnosis, and treatment of cancer. Although these processes cannot be directly observed, the resultant spatiotemporal patterns of genetic variation amongst tumor cells encode their evolutionary histories. Such intra-tumor heterogeneity is pervasive not only at the genomic level, but also at the transcriptomic, phenotypic, and cellular levels. Given the implications for precision medicine, the accurate quantification of heterogeneity within and between tumors has become a major focus of current research. In this review, we provide a population genetics perspective on the determinants of intra-tumor heterogeneity and approaches to quantify genetic diversity. We summarize evidence for different modes of evolution based on recent cancer genome sequencing studies and discuss emerging evolutionary strategies to therapeutically exploit tumor heterogeneity.
 
 # Summary. An optional shortened abstract.
