@@ -97,7 +97,7 @@ address = {street = "1068 Xueyuan Ave", city = "Shenzhen", region = "Guangdong",
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "22.594377425365526", longitude = "113.99078369702544"}
+coordinates = {latitude = "22.595541170003102", longitude = "113.98629743931502"}
 
 # Directions for visitors to locate you.
 directions = "Floor 4 of Building F"
