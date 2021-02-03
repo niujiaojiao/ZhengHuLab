@@ -1,7 +1,6 @@
 ---
 # Display name
-name: Zheng Hu
-weight: 10
+title: Zheng Hu (胡政)
 
 # Username (this should match the folder name)
 authors:
