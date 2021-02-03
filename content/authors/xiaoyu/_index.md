@@ -63,7 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Student
+- Graduate Students
 ---
 
-Shanlan Mo is a graduate student (fall of 2021) in Hu lab at Shenzhen Institute of Advanced Technology. She is interested in synthetic biology and engeneering bacteria for cancer treatment and detection.   
+Xiaoyu Zhao is a graduate student (fall of 2021) in Hu lab at Shenzhen Institute of Advanced Technology. She is interested in using synthetic biology approaches to engeneering bacteria for cancer treatment and detection.
