@@ -65,4 +65,4 @@ user_groups:
 - Research Assistants (RA)
 ---
 
-Xiangwei is a research assitant in Hu lab. He is interested in integrating genomic data and evolutionary models to infer clonal evolutionary trajectories in cancer.
+Xiangwei is a research assistant in Hu lab. He is interested in integrating genomic data and evolutionary models to infer clonal evolutionary trajectories in cancer.
