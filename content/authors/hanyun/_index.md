@@ -4,7 +4,7 @@ title: Hanyun Xu（许寒韵)
 
 # Username (this should match the folder name)
 authors:
-- zhaolian
+- hanyun
 
 # Is this the primary user of the site?
 superuser: false
@@ -65,4 +65,4 @@ user_groups:
 - Research Assistants (RA)
 ---
 
-Hanyun is a research assitant in Hu lab. Before joing the lab, she received MSc in Bioinformatics at Leiden University, working on the genomic variations in association with arthritis. In Hu Lab, she is interested in the genomic evolution of esophageal squamous cell carcinoma (ESCC).
+Hanyun is a research assitant in Hu lab. Before joing the lab, she received MSc in Bioinformatics at Leiden University working on the genomic variations in association with arthritis. In Hu Lab, she is interested in studying the genomic evolution of esophageal squamous cell carcinoma (ESCC).
