@@ -20,11 +20,11 @@ bio: Our group integrates evolutionary genetics, cancer genomics and computation
 interests:
 - Cancer Evolution
 - Computational Biology
-- Synthetic Biology
+- Systems Biology
 
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-We study the evolutionary and quantitative principles underlying the clonal expansion, metastasis, drug resistance of somatic cells (cancer cells more specifically). This involves understanding both the genomic variations and the underlying evolutionary processes that govern cancer progression and characterize their response to microenvironmental variability and change. We use multi-disciplinary approaches including multi-omics data integration, mathematical/computational models and systems biology to explore tumor-microenvironment interaction dynamics and seek synthetic biologic approaches to steer cancer evolution in clinics.
+We study the evolutionary and quantitative principles underlying the clonal expansion, metastasis, drug resistance of somatic cells (cancer cells more specifically). This involves understanding both the genomic variations and the underlying evolutionary processes that govern cancer progression and characterize their response to microenvironmental variability and change. We use multi-disciplinary approaches including multi-omics data integration, mathematical/computational models and systems biology to explore tumor-microenvironment interaction dynamics and pursue synthetic biologic approaches to steer cancer evolution in clinics.
