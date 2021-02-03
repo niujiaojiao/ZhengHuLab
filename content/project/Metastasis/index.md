@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Inferring the natural history and clonal evolution of metastatic dissemination with patient genomic data"
+title = "Deciphering the natural history of metastatic dissemination with patient genomic data"
 
 # Date this page was created.
 # date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "We integrates patient genomic data and computational modeling to reconstruct the natural history of metastatic dissemination in the body of patients and pursue answers regarding when and how metastasis occurs."
+summary = "We integrates patient genomic data and computational modeling to reconstruct the natural history abd clonal evolution of metastatic dissemination and pursue answers regarding when and how metastasis occurs."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`
@@ -44,4 +44,4 @@ url_video = ""
   focal_point = "Smart"
 +++
 
-Metastasis is the primary cause of cancer-related deaths, but the natural history, clonal evolution and impact of treatment are poorly understood. Our lab is fascinated by  
+Metastasis is the primary cause of cancer-related deaths, but the natural history, clonal evolution and impact of treatment are poorly understood. Our lab is fascinated by "genomic archaeology" approaches to decipher the history of metastatic progression. We develop computational methods to analyze genomic data from paired primary tumors and metastases. 
