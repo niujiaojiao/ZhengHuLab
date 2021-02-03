@@ -66,4 +66,4 @@ user_groups:
 - Postdoctoral Fellows
 ---
 
-Shanlan Mo is a postdoctoral fellow in Hu lab at Shenzhen Institute of Advanced Technology. She received her PhD in Genomics at Beijing Institute of Genomics, Chinese Academy of Sciences under the supervision of Dr Qianfei Wang. Her PhD research was deciphering the molecular mechanisms and genomic evolution of drug resistance of AML during chemotherapy. In Hu Lab, she is interested in intergrating multi-omics data to study the genomic variations and clonal evolution in metastasis and drug resistance.
+Shanlan Mo is a postdoctoral fellow in Hu lab at Shenzhen Institute of Advanced Technology. She received her PhD at Beijing Institute of Genomics, Chinese Academy of Sciences under the supervision of Dr Qianfei Wang. Her PhD research was about the molecular mechanisms and genomic evolution of drug resistance of AML during chemotherapy. In Hu Lab, she is interested in intergrating multi-omics data to study the genomic variations and clonal evolution in metastasis and drug resistance.
