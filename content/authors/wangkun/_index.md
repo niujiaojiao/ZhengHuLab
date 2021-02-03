@@ -26,12 +26,12 @@ interests:
 
 education:
   courses:
-  - course: MSc in Epidemiology and Health Statistics
-    institution: Zhengzhou University, China
-    year: 2017-2020
+  - course: MSc in Probability and Statistics
+    institution: Xiamen University, China
+    year: 2019-
   - course: BSc in Preventive Medicine
-    institution: Fujian Medical University, China
-    year: 2013-2017
+    institution: Ocean University of China
+    year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
