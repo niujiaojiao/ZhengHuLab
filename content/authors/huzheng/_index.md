@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Zheng Hu
-weight: 1
+weight: 10
 
 # Username (this should match the folder name)
 authors:
@@ -19,7 +19,7 @@ role: Principal Investigator (PI)
 #  url: "http://english.siat.cas.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: xxx
 
 interests:
 - Cancer Evolution
