@@ -21,8 +21,8 @@ role: Visiting Student
 bio: 
 
 interests:
-- Cancer Genomics
-- Computational Oncology
+- Mathematical Biology
+- Computational Modeling
 
 education:
   courses:
