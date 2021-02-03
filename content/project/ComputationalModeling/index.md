@@ -26,7 +26,7 @@ slides = ""
 # Links (optional).
 url_pdf = ""
 url_slides = ""
-url_video = ""
+url_video = "https://github.com/huzheng16/ZhengHuLab/blob/master/content/project/ComputationalModeling/neutral-fast.mp4"
 # url_code = "https://github.com/rOpenGov/iotables/"
 
 # Custom links (optional).
