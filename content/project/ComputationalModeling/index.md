@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Computational modeling of tumor growth and metastasis"
+title = "Computational modeling of tumor growth and metastasis through space and time"
 
 # Date this page was created.
 # date = 2019-10-14T16:32:42+13:00
@@ -37,11 +37,11 @@ url_video = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Responses of different organisms to hydromorphological restoration in Germany (see Pilotto et al., 2019)"
+  # caption = ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
 
-We develop agent-based computational model to depict tumor clonal eovlution through space and time.
+Tumor progression is a complex process invovling extensive spatial and temporal variability and dynamics interteration with microenvironments. We develop agent-based computational models to depict tumor clonal evolution through space and time. We also leverage multi-region and/or longitudinal genomic data to calibrate the computational model with aims to infer patient’s tumor evolutionary history and quantify the evolutionary dynamics during tumor initiation, progression and metastasis.
