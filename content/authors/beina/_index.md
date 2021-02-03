@@ -65,4 +65,4 @@ user_groups:
 - Research Assistants (RA)
 ---
 
-Beina is a research assitant in Hu lab. Before joing the lab, she received MSc in Biological Technology at Shenzhen Institute of Advanced Technology working on improving the safety of CAR-T immunotherapy. In Hu Lab, she is interested in using patient-derived organoids as models to study tumor clonal evolution.
+Beina is a research assistant in Hu lab. Before joing the lab, she received MSc in Biological Technology at Shenzhen Institute of Advanced Technology working on improving the safety of CAR-T immunotherapy. In Hu Lab, she is interested in using patient-derived organoids as models to study tumor clonal evolution.
