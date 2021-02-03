@@ -29,7 +29,7 @@ education:
   - course: MSc in Probability and Statistics
     institution: Xiamen University, China
     year: 2019-
-  - course: BSc in Preventive Medicine
+  - course: BSc in Mathematics
     institution: Ocean University of China
     year: 2015-2019
 
