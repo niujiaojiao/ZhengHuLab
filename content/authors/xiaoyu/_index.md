@@ -22,8 +22,8 @@ bio:
 
 interests:
 - Synthetic Biology
-- Cancer treatment
-- Cancer evolution
+- Cancer Treatment
+- Cancer Evolution
 
 education:
   courses:
