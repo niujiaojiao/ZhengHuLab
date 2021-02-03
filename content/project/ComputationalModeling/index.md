@@ -44,4 +44,4 @@ url_video = ""
   focal_point = "Smart"
 +++
 
-Tumor progression is a complex process invovling extensive spatial and temporal variability and dynamic interteration with microenvironments. We develop agent-based computational models to depict the tumor clonal evolution through space and time. We also leverage multi-region and/or longitudinal genomic data to calibrate the computational model with aims to infer patient’s tumor evolutionary history and quantify the evolutionary dynamics during tumor initiation, progression and metastasis.
+Tumor progression is a complex process involving extensive spatial and temporal variability and dynamic interteration between cancer cells and microenvironments. We develop agent-based computational models to depict the tumor clonal evolution through space and time. We also leverage multi-region and/or longitudinal genomic data to calibrate the computational model with aims to infer patient’s tumor evolutionary history and quantify the evolutionary dynamics during tumor initiation, progression and metastasis.
