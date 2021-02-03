@@ -28,11 +28,14 @@ interests:
 education:
   courses:
   - course: PhD in Evolutionary Genetics
-    institution: Beijing Institute of Genomics, Chinese Academy of Sciences (CAS)
-    year: 2010-2015
-  - course: BSc in Biomedical Engineering
-    institution: Huazhong University of Science and Technology
-    year: 2006-2010
+    institution: Department of Biology, Saint Louis University
+    year: 2015-2020
+  - course: MSc in Pathogenic Biology
+    institue: Lanzhou University, China
+    year: 2012-2015
+  - course: BSc in Biological Technology
+    institution: Qingdao University, China
+    year: 2007-2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
