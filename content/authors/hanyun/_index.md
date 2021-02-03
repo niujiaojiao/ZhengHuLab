@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Fellow
+role: Research Assistant
 
 # Organizations/Affiliations
 # organizations:
@@ -62,7 +62,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdoctoral Fellows
+- Research Assistants (RA)
 ---
 
 Hanyun is a research assitant in Hu lab. Before joing the lab, she received MSc in Bioinformatics at Leiden University, working on the genomic variations in association with arthritis. In Hu Lab, she is interested in the genomic evolution of esophageal squamous cell carcinoma (ESCC).
