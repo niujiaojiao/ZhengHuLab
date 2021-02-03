@@ -31,7 +31,7 @@ education:
     institution: Department of Biology, Saint Louis University
     year: 2015-2020
   - course: MSc in Pathogenic Biology
-    institue: Lanzhou University, China
+    institution: Lanzhou University, China
     year: 2012-2015
   - course: BSc in Biological Technology
     institution: Qingdao University, China
