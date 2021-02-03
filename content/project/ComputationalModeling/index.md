@@ -6,7 +6,7 @@ title = "Computational modeling of tumor growth and metastasis through space and
 # date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "We develop agent-based computational model to depict tumor clonal eovlution through space and time."
+summary = "We develop agent-based computational model to depict tumor clonal evolution through space and time."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`
