@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: People
+title: Meet the team
 subtitle:
 
 content:
@@ -17,9 +17,9 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
   - Principal Investigator
+  - Administration
   - Postdoctoral Fellow
   - Graduate Students
-  - Administration
   - Visitors
   - Alumni
 design:
