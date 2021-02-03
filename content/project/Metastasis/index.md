@@ -6,7 +6,7 @@ title = "Inferring the natural history and clonal evolution of metastatic dissem
 # date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "We integrates patient genomic data and computational modeling to reconstruct the natural history of metastatic dissemination in the body of patients and seed answers regarding when and how metastasis occurs."
+summary = "We integrates patient genomic data and computational modeling to reconstruct the natural history of metastatic dissemination in the body of patients and pursue answers regarding when and how metastasis occurs."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`
