@@ -33,8 +33,8 @@ education:
   - course: PhD in Evolutionary Genetics
     institution: Beijing Institute of Genomics, Chinese Academy of Sciences (CAS)
     year: 2010-2015
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BSc in Biomedical Engineering
+    institution: Huazhong University of Science and Technology
     year: 2006-2010
 
 # Social/Academic Networking
