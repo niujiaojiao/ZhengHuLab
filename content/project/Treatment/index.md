@@ -6,7 +6,7 @@ title = "How drug treatment shapes the evolutionary trajectories of metastatic r
 # date = 2019-10-14T16:32:42+13:00
 
 # Project summary to display on homepage.
-summary = "We integrate multi-omic patient genomic data to understand how treatment shapes the evolutionary trajectories of metastatic replase and interrogate the context-dependent trajectories of clonal evolution."
+summary = "We integrate multi-omic patient genomic data to understand how treatment shapes the evolutionary trajectories of metastatic replase and infer the context-dependent trajectories of clonal evolution."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`
