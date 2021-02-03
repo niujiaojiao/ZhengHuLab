@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Computational modeling of tumor growth and metastasis through space and time"
+title = "Computational modeling of tumor evolution through space and time"
 
 # Date this page was created.
 # date = 2019-10-14T16:32:42+13:00
