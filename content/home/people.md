@@ -19,6 +19,7 @@ content:
   - Principal Investigator
   - Postdoctoral Fellows
   - Graduate Students
+  - Research Assistants (RA)
   - Visiting Students
   - Administration
   - Alumni
