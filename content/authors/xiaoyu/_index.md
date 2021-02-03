@@ -66,4 +66,4 @@ user_groups:
 - Graduate Students
 ---
 
-Xiaoyu Zhao is a graduate student (fall of 2021) in Hu lab at Shenzhen Institute of Advanced Technology. She is interested in using synthetic biology approaches to engeneering bacteria for cancer treatment and detection.
+Xiaoyu Zhao is a graduate student (from fall of 2021) in Hu lab at Shenzhen Institute of Advanced Technology. She is interested in using synthetic biology approaches to engeneering bacteria for cancer treatment and detection.
