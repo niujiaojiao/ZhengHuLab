@@ -63,7 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigator
+- Postdoctoral Fellow
 ---
 
 Zhaolian Lu is a postdoctoral fellow in Hu lab at Shenzhen Institute of Advanced Technology. She received his Ph.D. in Evolutionary Genetics at Saint Louis University under the supervision of Dr Zhenguo Lin. Her PhD was focusing on understanding the regulation and evolution of transcription initiation in yeasts. In Hu Lab, she is interested in applying evolutionary approaches to decode large-scale lineage tracing data in somatic cells at single cell resolution.
