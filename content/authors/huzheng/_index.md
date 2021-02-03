@@ -1,14 +1,14 @@
 ---
 # Display name
 name: Zheng Hu
-weight: 201
+weight: 1
 
 # Username (this should match the folder name)
 authors:
 - huzheng
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Principal Investigator (PI)
@@ -24,11 +24,10 @@ bio:
 interests:
 - Cancer Evolution
 - Evolutionary Genomics
-- Computational modeling
+- Computational Biology
 
 education:
   courses:
-  
   - course: PhD in Evolutionary Genetics
     institution: Beijing Institute of Genomics, Chinese Academy of Sciences, China
     year: 2015
