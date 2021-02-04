@@ -44,4 +44,4 @@ url_slides = ""
   focal_point = "Smart"
 +++
 
-Metastasis often occurs after adjuvant therapy. Therefore, the post-treated metastasis has gone through strong selection. We leverage large-scale genomic data analysis to infer patient-specific trajectories towards metastatic replase after treatment and interrogate whether current genomic states determine the evolutionary trajectories of metastatic replase. 
+Metastasis often occurs after adjuvant therapy. Therefore, the post-treated metastasis has gone through stringent selection. We leverage large-scale genomic data analysis to infer patient-specific trajectories towards metastatic replase after treatment and interrogate whether genomic state in treatment-naive primary tumors determine the evolutionary trajectories of metastatic replase. 
