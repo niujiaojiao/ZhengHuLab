@@ -1,6 +1,6 @@
 ---
 title: Hu lab kicks off at SIAT Chinese Academy of Sciences, Hooray!!
-subtitle: I'm looking forward to an amazing journey ahead...
+subtitle: 
 
 # Summary for listings and search engines
 # summary: Welcome We know that first impressions are important.
@@ -40,3 +40,4 @@ authors:
 
 ---
 
+I'm looking forward to an amazing journey ahead...
