@@ -14,7 +14,7 @@ organizations:
   url: http://english.siat.cas.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Our group integrates evolutionary genetics, cancer genomics and computational modeling to delineate the evolutionary dynamics of tumor growth and metastasis.
+bio: Our group intersects evolutionary genetics, cancer genomics and computational modeling to delineate the evolutionary dynamics of tumor growth and metastasis.
 
 # Interests to show in About widget
 interests:
