@@ -22,8 +22,8 @@ featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  focal_point: "Smart"
+[image]
+#  focal_point: "Smart"
   placement: 1
   preview_only: false
 
