@@ -1,5 +1,5 @@
 ---
-title: Hu lab kicks off at SIAT Chinese Academy of Sciences, Hooray!!
+title: Zhaolian gave a talk on cancer lineage tracing at the annual meeting of Center for Quantitative Synthetic Biology.
 subtitle: 
 
 # Summary for listings and search engines
@@ -32,5 +32,3 @@ authors:
 - admin
 
 ---
-
-I'm looking forward to an amazing journey ahead...
