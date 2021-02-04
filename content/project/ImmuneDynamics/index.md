@@ -34,7 +34,7 @@ url_slides = ""
 # url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/jdtonkin"}]
 
 # Featured image
-# To use, add an image named `featured.png` to your project's folder. 
+# To use, add an image named `featured.png/jpg` to your project's folder. 
 [image]
   # Caption (optional)
   # caption = ""
