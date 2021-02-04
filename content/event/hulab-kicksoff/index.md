@@ -33,7 +33,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: Card
+  view: 3
 
 authors:
 - admin
