@@ -1,47 +1,34 @@
-+++
-# Project title.
-title = "Computational modeling of tumor evolution through space and time"
+---
+title: Zhaolian gave a talk on cancer lineage tracing at the annual meeting of Center for Quantitative Synthetic Biology.
+subtitle: 
 
-# Date this page was created.
-# date = 2019-10-14T16:32:42+13:00
+# Summary for listings and search engines
+# summary: Welcome We know that first impressions are important.
 
-# Project summary to display on homepage.
-summary = "We develop agent-based computational model to depict tumor clonal evolution through space and time."
+# Link this post with a project
+projects: []
 
-# Tags: can be used for filtering projects.
-# Example: `tags = ["economic-impact", "r-package"]`
-# tags = ["R"]
+# Date published
+date: "2020-12-29T09:00:00Z"
 
-# Optional external URL for project (replaces project detail page).
-# external_link = "http://iotables.ceemid.eu/"
+# Date updated
+# lastmod: "2020-12-13T00:00:00Z"
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
-#   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
+# Is this an unpublished draft?
+draft: false
 
-# Links (optional).
-url_pdf = ""
-url_slides = ""
-# url_video = "https://github.com/huzheng16/ZhengHuLab/blob/master/content/project/ComputationalModeling/neutral-fast.mp4"
-# url_code = "https://github.com/rOpenGov/iotables/"
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/jdtonkin"}]
+# Show this page in the Featured widget?
+featured: false
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
-  # Caption (optional)
-  # caption = ""
-  
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
-+++
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  focal_point: "Smart"
+  placement: 2
+  preview_only: false
 
-Tumor progression is a complex process involving extensive spatial and temporal variability and dynamic interteration between cancer cells and microenvironments. We develop agent-based computational models to depict the tumor clonal evolution through space and time. We also leverage multi-region and/or longitudinal genomic data to calibrate the computational model with aims to infer patient’s tumor evolutionary history and quantify the evolutionary dynamics during tumor initiation, progression and metastasis.
+
+authors:
+- admin
+
+---
