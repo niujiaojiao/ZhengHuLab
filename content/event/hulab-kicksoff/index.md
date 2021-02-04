@@ -18,12 +18,12 @@ date: "2020-07-27T09:00:00Z"
 draft: false
 
 # Show this page in the Featured widget?
-featured: true
+featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  focal_point: "Smart"
+#  focal_point: "Smart"
   placement: 2
   preview_only: false
 
