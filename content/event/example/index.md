@@ -1,6 +1,6 @@
 ---
 title: Congratulations to Zhaolian on receiving the SIAT Excellent Youth Innovation Grant! (先进院优秀青年创新基金)
-subtitle: This grant will support Zhaolian on applying single-cell lineage tracing method to study the clonal evolution in tumor initiation and progression.
+subtitle: This grant will support Zhaolian to apply single-cell lineage tracing methods to study the clonal evolution in tumor initiation and progression.
 
 # Link this post with a project
 # projects: []
@@ -28,7 +28,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 1
+  view: 3
 
 authors:
 - admin
