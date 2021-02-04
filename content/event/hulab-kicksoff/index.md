@@ -22,10 +22,10 @@ featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  focal_point: ""
-  placement: 2
-  preview_only: false
+# image:
+#  focal_point: ""
+#  placement: 2
+#  preview_only: false
 
 design:
   # Choose a view for the listings:
@@ -34,6 +34,16 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: Card
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your project's folder. 
+[image]
+  # Caption (optional)
+  # caption = ""
+  
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Smart"
 
 authors:
 - admin
