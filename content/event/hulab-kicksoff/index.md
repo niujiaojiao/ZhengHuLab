@@ -23,17 +23,10 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-#  focal_point: "Smart"
+  focal_point: "Smart"
   placement: 2
   preview_only: false
 
-design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: 3
 
 authors:
 - admin
