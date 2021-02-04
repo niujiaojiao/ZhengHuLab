@@ -1,6 +1,5 @@
 ---
 title: Lab News
-cms_exclude: false
 
 # View.
 #   1 = List
