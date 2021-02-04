@@ -65,4 +65,4 @@ user_groups:
 - Visiting Students
 ---
 
-Kun Wang is a visiting student in Hu lab. He is MSc student in School of Mathematics, Xiamen University (Advisor: Prof. Da Zhou). He is interested in building mathematical and quantitative models for delineating the clonal dynamics and trajectories in organ development and cancer evolution.
+Kun Wang is an MSc student in School of Mathematics, Xiamen University (Advisor: Prof. Da Zhou) and now visiting in Hu lab. He is interested in building mathematical and quantitative models for delineating the clonal dynamics and trajectories in organ development and cancer evolution.
