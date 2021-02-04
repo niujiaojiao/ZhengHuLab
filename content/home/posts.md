@@ -7,7 +7,7 @@ widget: posts
 headless: true
 
 # Order that this section appears on the page.
-weight: 110
+weight: 90
 
 title: Lab News
 subtitle:
