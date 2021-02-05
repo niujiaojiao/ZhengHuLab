@@ -20,7 +20,7 @@ bio: Our group intersects evolutionary genetics, cancer genomics and computation
 interests:
 - Cancer Evolution
 - Computational Biology
-- Systems Biology
+- Systems & Synthetic Biology
 
 
 # Highlight the author in author lists? (true/false)
