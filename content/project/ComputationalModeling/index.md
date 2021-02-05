@@ -22,6 +22,7 @@ summary = "We develop agent-based computational model to depict tumor clonal evo
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = ""
+{{< video src="neutral-fast.mp4" controls="yes" >}}
 
 # Links (optional).
 url_pdf = ""
