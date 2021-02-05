@@ -39,7 +39,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Nature Communications, 10*(657)"
-publication_short: "*Nature Communications, 10*(657))"
+publication_short: "*Nature Communications, 10*(657)"
 
 abstract: Genomic changes observed across treatment may result from either clonal evolution or geographically disparate sampling of heterogeneous tumors. Here we use computational modeling based on analysis of fifteen primary breast tumors and find that apparent clonal change between two tumor samples can frequently be explained by pre-treatment heterogeneity, such that at least two regions are necessary to detect treatment-induced clonal shifts. To assess for clonal replacement, we devise a summary statistic based on whole-exome sequencing of a pre-treatment biopsy and multi-region sampling of the post-treatment surgical specimen and apply this measure to five breast tumors treated with neoadjuvant HER2-targeted therapy. Two tumors underwent clonal replacement with treatment, and mathematical modeling indicates these two tumors had resistant subclones prior to treatment and rates of resistance-related genomic changes that were substantially larger than previous estimates. Our results provide a needed framework to incorporate primary tumor heterogeneity in investigating the evolution of resistance.
 # Summary. An optional shortened abstract.
