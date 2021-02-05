@@ -35,8 +35,8 @@ publishDate: "2019-01-15T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Molecular Biology and Evolution, 36: 3*(541–552)"
-publication_short: "*Molecular Biology and Evolution, 36: 3*(541–552)"
+publication: "*Molecular Biology and Evolution, 3*(541–552)"
+publication_short: "*Molecular Biology and Evolution, 3*(541–552)"
 
 abstract: Large genomes with elevated mutation rates are prone to accumulating deleterious mutations more rapidly than natural selection can purge (Muller’s ratchet). As a consequence, it may lead to the extinction of small populations. Relative to most unicellular organisms, cancer cells, with large and nonrecombining genome and high mutation rate, could be particularly susceptible to such “mutational meltdown.” However, the most common type of mutation in organismal evolution, namely, deleterious mutation, has received relatively little attention in the cancer biology literature. Here, by monitoring single-cell clones from HeLa cell lines, we characterize deleterious mutations that retard the rate of cell proliferation. The main mutation events are copy number variations (CNVs), which, estimated from fitness data, happen at a rate of 0.29 event per cell division on average. The mean fitness reduction, estimated reaching 18% per mutation, is very high. HeLa cell populations therefore have very substantial genetic load and, at this level, natural population would likely face mutational meltdown. We suspect that HeLa cell populations may avoid extinction only after the population size becomes large enough. Because CNVs are common in most cell lines and tumor tissues, the observations hint at cancer cells’ vulnerability, which could be exploited by therapeutic strategies.
 
