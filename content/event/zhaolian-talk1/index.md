@@ -9,7 +9,7 @@ subtitle:
 projects: []
 
 # Date published
-date: "2020-12-29T09:00:00Z"
+date: "2020-12-29T10:00:00Z"
 
 # Date updated
 # lastmod: "2020-12-13T00:00:00Z"
@@ -24,7 +24,7 @@ featured: false
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   focal_point: "Smart"
-  placement: 2
+  placement: 1
   preview_only: false
 
 
