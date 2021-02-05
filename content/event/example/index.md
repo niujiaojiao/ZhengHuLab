@@ -35,4 +35,4 @@ authors:
 
 ---
 
-This grant will support Zhaolian to apply single-cell lineage tracing to delineate the clonal evolution in tumor initiation and progression.
+This grant will support Zhaolian to apply single-cell lineage tracing to track the clonal evolution of tumor initiation and progression.
