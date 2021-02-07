@@ -35,7 +35,7 @@
  
 [[main]]
   name = "Gallery"
-  url = "photo"
+  url = "gallery"
   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
