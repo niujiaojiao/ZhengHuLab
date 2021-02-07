@@ -93,14 +93,15 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1068 Xueyuan Ave", city = "Shenzhen", region = "Guangdong, China", postcode = "518055", country = "China", country_code = "CN"}
+# address = {street = "1068 Xueyuan Ave", city = "Shenzhen", region = "Guangdong", postcode = "518055", country = "China", country_code = "CN"}
+address = {street = "1068 Xueyuan Ave", city = "Shenzhen, Guangdong", postcode = "518055", region = "China", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "22.598736989904868", longitude = "113.98576828264318"}
 
 # Directions for visitors to locate you.
-directions = "Floor 4 of Building F"
+directions = "Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences (CAS)"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
