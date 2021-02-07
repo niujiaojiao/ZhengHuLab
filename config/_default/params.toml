@@ -94,7 +94,7 @@ phone = ""
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 # address = {street = "1068 Xueyuan Ave", city = "Shenzhen", region = "Guangdong", postcode = "518055", country = "China", country_code = "CN"}
-address = {street = "1068 Xueyuan Ave", city = "Shenzhen, Guangdong", postcode = "518055", region = "China", country_code = "CN"}
+address = {street = "1068 Xueyuan Ave", city = "Shenzhen, Guangdong 518055", region = "China", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
