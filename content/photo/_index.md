@@ -12,3 +12,5 @@ weight: 66
 title: Gallery
 subtitle:
 ---
+
+{{< gallery >}}
