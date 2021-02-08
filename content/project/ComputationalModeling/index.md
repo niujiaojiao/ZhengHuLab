@@ -7,11 +7,6 @@ title = "Computational modeling of tumor evolution through space and time"
 
 # Project summary to display on homepage.
 summary = "We develop agent-based computational model to depict tumor clonal evolution through space and time."
-<div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'>
-  <iframe src='https://github.com/huzheng16/ZhengHuLab/edit/master/content/project/ComputationalModeling/neutral-fast.mp4'
-  style='position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;'
-  title='Virtual tumor: neutral evolution' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["economic-impact", "r-package"]`
@@ -27,7 +22,7 @@ summary = "We develop agent-based computational model to depict tumor clonal evo
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = ""
-video_src = "neutral-fast.mp4"
+video_src = "https://github.com/huzheng16/ZhengHuLab/blob/master/content/project/ComputationalModeling/neutral-fast.mp4"
 controls = "yes"
 
 # Links (optional).
