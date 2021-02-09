@@ -1,6 +1,6 @@
 ---
-title: dinner
-subtitle: 
+title:
+subtitle: "first lab dinner"
 
 date: "2020-07-31T18:00:00Z"
 
@@ -11,11 +11,11 @@ image:
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point: "Smart"
+  focal_point: "Top"
   placement: 2
   preview_only: false
 
-authors:
-- admin
+# authors:
+# - admin
 
 ---
