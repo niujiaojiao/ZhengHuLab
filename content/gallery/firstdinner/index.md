@@ -12,7 +12,7 @@ image:
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: "Top"
-  placement: 1
+  placement: 3
   preview_only: false
 
 # authors:
