@@ -12,11 +12,11 @@ image:
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: "Top"
-  placement: 3
-  preview_only: false
+  placement: 1
+  preview_only: true
 
 # Show this page in the Featured widget?
-featured: true
+# featured: true
 
 # authors:
 # - admin
