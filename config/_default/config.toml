@@ -63,8 +63,8 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
 
 [imaging]
   resampleFilter = "lanczos"
-  quality = 75
-  anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
+  quality = 100
+  anchor = "center"  # Anchor for cropping. Options include Smart and Center.
 
 # Taxonomies.
 [taxonomies]
