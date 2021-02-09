@@ -11,8 +11,8 @@ image:
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point: "Top"
-  placement: 1
+  focal_point: "Smart"
+  placement: 2
   preview_only: true
 
 # Show this page in the Featured widget?
