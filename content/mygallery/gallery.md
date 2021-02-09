@@ -3,7 +3,7 @@
 widget: pages
 headless: true
 
-weight: 65
+weight: 20
 
 # design:
 # Choose how many columns the section has. Valid values: 1 or 2.
@@ -16,5 +16,6 @@ subtitle:
 content:
   # Page type to display. E.g. project.
   page_type: gallery
+  filter_default: 0
 
 ---
