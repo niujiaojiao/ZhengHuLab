@@ -1,6 +1,6 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
+widget: pages
 headless: true
 
 weight: 65
