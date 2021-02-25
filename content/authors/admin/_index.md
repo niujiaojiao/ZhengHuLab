@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hu Lab
+title: Wangbo Lab
 
 # Is this the primary user of the site?
 superuser: true
